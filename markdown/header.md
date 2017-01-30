@@ -31,6 +31,7 @@ $$\newcommand{\tr}[1]{\mathop{\text{tr}}{\left(#1\right)}}$$
 $$\newcommand{\t}{\vec{t}}$$
 $$\newcommand{\x}{\vec{x}}$$
 $$\newcommand{\y}{\vec{y}}$$
+$$\newcommand{\u}{\vec{u}}$$
 $$\newcommand{\z}{\vec{z}}$$
 $$\renewcommand{\v}{\vec{v}}$$
 $$\newcommand{\transpose}{{\mathsf T}}$$
