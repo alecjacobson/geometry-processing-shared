@@ -18,6 +18,7 @@ $$\newcommand{\One}{\mathbf{1}}$$
 $$\newcommand{\S}{\mathcal{S}}$$
 $$\newcommand{\M}{\mat{M}}$$
 $$\newcommand{\U}{\mat{U}}$$
+$$\newcommand{\L}{\mat{L}}$$
 $$\newcommand{\V}{\mat{V}}$$
 $$\newcommand{\W}{\mat{W}}$$ 
 $$\newcommand{\X}{\mat{X}}$$
@@ -26,6 +27,7 @@ $$\newcommand{\c}{\vec{c}}$$
 $$\newcommand{\f}{\vec{f}}$$
 $$\newcommand{\g}{\vec{g}}$$
 $$\newcommand{\n}{\vec{n}}$$
+$$\newcommand{\e}{\vec{e}}$$
 $$\newcommand{\p}{\vec{p}}$$
 $$\newcommand{\tr}[1]{\mathop{\text{tr}}{\left(#1\right)}}$$
 $$\newcommand{\t}{\vec{t}}$$
