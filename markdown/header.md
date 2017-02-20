@@ -8,9 +8,11 @@ $$\newcommand{\A}{\mat{A}}$$
 $$\newcommand{\B}{\mat{B}}$$
 $$\newcommand{\C}{\mat{C}}$$
 $$\newcommand{\D}{\mat{D}}$$
+$$\newcommand{\E}{\mat{E}}$$
 $$\newcommand{\I}{\mat{I}}$$
 $$\newcommand{\G}{\mat{G}}$$
 $$\newcommand{\N}{\mat{N}}$$
+$$\newcommand{\Q}{\mat{Q}}$$
 $$\newcommand{\P}{\mat{P}}$$
 $$\newcommand{\Rot}{\mat{R}}$$
 $$\newcommand{\R}{\mathbb{R}}$$
@@ -37,6 +39,7 @@ $$\newcommand{\u}{\vec{u}}$$
 $$\newcommand{\z}{\vec{z}}$$
 $$\renewcommand{\v}{\vec{v}}$$
 $$\newcommand{\transpose}{{\mathsf T}}$$
+$$\newcommand{\min}{\mathop{\text{min}}}$$
 $$\newcommand{\argmin}{\mathop{\text{argmin}}}$$
 $$\newcommand{\argmax}{\mathop{\text{argmax}}}$$
 </div>
