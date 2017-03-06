@@ -18,7 +18,9 @@ $$\newcommand{\Rot}{\mat{R}}$$
 $$\newcommand{\R}{\mathbb{R}}$$
 $$\newcommand{\One}{\mathbf{1}}$$
 $$\newcommand{\S}{\mathcal{S}}$$
+$$\newcommand{\T}{\mat{T}}$$
 $$\newcommand{\M}{\mat{M}}$$
+$$\newcommand{\K}{\mat{K}}$$
 $$\newcommand{\U}{\mat{U}}$$
 $$\newcommand{\L}{\mat{L}}$$
 $$\newcommand{\V}{\mat{V}}$$
@@ -29,6 +31,7 @@ $$\newcommand{\c}{\vec{c}}$$
 $$\newcommand{\f}{\vec{f}}$$
 $$\newcommand{\g}{\vec{g}}$$
 $$\newcommand{\n}{\vec{n}}$$
+$$\newcommand{\d}{\vec{d}}$$
 $$\newcommand{\e}{\vec{e}}$$
 $$\newcommand{\p}{\vec{p}}$$
 $$\newcommand{\tr}[1]{\mathop{\text{tr}}{\left(#1\right)}}$$
