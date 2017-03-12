@@ -1,48 +1,52 @@
 css: shared/css/style.css
-html header:   <script type="text/javascript" src="shared/js/MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+html header: <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({ TeX: { equationNumbers: {autoNumber: "all"} } });
+  </script>
+  <script type="text/javascript" src="shared/js/MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
 <div style="display:none">
-$$\newcommand{\mat}[1]{\mathbf{#1}}$$
-$$\newcommand{\vec}[1]{\mathbf{#1}}$$
-$$\newcommand{\A}{\mat{A}}$$
-$$\newcommand{\B}{\mat{B}}$$
-$$\newcommand{\C}{\mat{C}}$$
-$$\newcommand{\D}{\mat{D}}$$
-$$\newcommand{\E}{\mat{E}}$$
-$$\newcommand{\I}{\mat{I}}$$
-$$\newcommand{\G}{\mat{G}}$$
-$$\newcommand{\N}{\mat{N}}$$
-$$\newcommand{\Q}{\mat{Q}}$$
-$$\newcommand{\P}{\mat{P}}$$
-$$\newcommand{\Rot}{\mat{R}}$$
-$$\newcommand{\R}{\mathbb{R}}$$
-$$\newcommand{\One}{\mathbf{1}}$$
-$$\newcommand{\S}{\mathcal{S}}$$
-$$\newcommand{\T}{\mat{T}}$$
-$$\newcommand{\M}{\mat{M}}$$
-$$\newcommand{\K}{\mat{K}}$$
-$$\newcommand{\U}{\mat{U}}$$
-$$\newcommand{\L}{\mat{L}}$$
-$$\newcommand{\V}{\mat{V}}$$
-$$\newcommand{\W}{\mat{W}}$$ 
-$$\newcommand{\X}{\mat{X}}$$
-$$\newcommand{\Y}{\mat{Y}}$$
-$$\newcommand{\c}{\vec{c}}$$
-$$\newcommand{\f}{\vec{f}}$$
-$$\newcommand{\g}{\vec{g}}$$
-$$\newcommand{\n}{\vec{n}}$$
-$$\newcommand{\d}{\vec{d}}$$
-$$\newcommand{\e}{\vec{e}}$$
-$$\newcommand{\p}{\vec{p}}$$
-$$\newcommand{\tr}[1]{\mathop{\text{tr}}{\left(#1\right)}}$$
-$$\newcommand{\t}{\vec{t}}$$
-$$\newcommand{\x}{\vec{x}}$$
-$$\newcommand{\y}{\vec{y}}$$
-$$\newcommand{\u}{\vec{u}}$$
-$$\newcommand{\z}{\vec{z}}$$
-$$\renewcommand{\v}{\vec{v}}$$
-$$\newcommand{\transpose}{{\mathsf T}}$$
-$$\newcommand{\min}{\mathop{\text{min}}}$$
-$$\newcommand{\argmin}{\mathop{\text{argmin}}}$$
-$$\newcommand{\argmax}{\mathop{\text{argmax}}}$$
+$\newcommand{\A}{\mat{A}}$
+$\newcommand{\B}{\mat{B}}$
+$\newcommand{\C}{\mat{C}}$
+$\newcommand{\D}{\mat{D}}$
+$\newcommand{\E}{\mat{E}}$
+$\newcommand{\F}{\mat{F}}$
+$\newcommand{\G}{\mat{G}}$
+$\newcommand{\I}{\mat{I}}$
+$\newcommand{\K}{\mat{K}}$
+$\newcommand{\L}{\mat{L}}$
+$\newcommand{\M}{\mat{M}}$
+$\newcommand{\N}{\mat{N}}$
+$\newcommand{\One}{\mathbf{1}}$
+$\newcommand{\P}{\mat{P}}$
+$\newcommand{\Q}{\mat{Q}}$
+$\newcommand{\Rot}{\mat{R}}$
+$\newcommand{\R}{\mathbb{R}}$
+$\newcommand{\S}{\mathcal{S}}$
+$\newcommand{\T}{\mat{T}}$
+$\newcommand{\U}{\mat{U}}$
+$\newcommand{\V}{\mat{V}}$
+$\newcommand{\W}{\mat{W}}$ 
+$\newcommand{\X}{\mat{X}}$
+$\newcommand{\Y}{\mat{Y}}$
+$\newcommand{\argmax}{\mathop{\text{argmax}}}$
+$\newcommand{\argmin}{\mathop{\text{argmin}}}$
+$\newcommand{\c}{\vec{c}}$
+$\newcommand{\d}{\vec{d}}$
+$\newcommand{\e}{\vec{e}}$
+$\newcommand{\f}{\vec{f}}$
+$\newcommand{\g}{\vec{g}}$
+$\newcommand{\mat}[1]{\mathbf{#1}}$
+$\newcommand{\min}{\mathop{\text{min}}}$
+$\newcommand{\n}{\vec{n}}$
+$\newcommand{\p}{\vec{p}}$
+$\newcommand{\transpose}{{\mathsf T}}$
+$\newcommand{\tr}[1]{\mathop{\text{tr}}{\left(#1\right)}}$
+$\newcommand{\t}{\vec{t}}$
+$\newcommand{\u}{\vec{u}}$
+$\newcommand{\vec}[1]{\mathbf{#1}}$
+$\newcommand{\x}{\vec{x}}$
+$\newcommand{\y}{\vec{y}}$
+$\newcommand{\z}{\vec{z}}$
+$\renewcommand{\v}{\vec{v}}$
 </div>
