@@ -12,6 +12,7 @@ $\newcommand{\D}{\mat{D}}$
 $\newcommand{\E}{\mat{E}}$
 $\newcommand{\F}{\mat{F}}$
 $\newcommand{\G}{\mat{G}}$
+$\newcommand{\H}{\mat{H}}$
 $\newcommand{\I}{\mat{I}}$
 $\newcommand{\K}{\mat{K}}$
 $\newcommand{\L}{\mat{L}}$
@@ -40,6 +41,8 @@ $\newcommand{\mat}[1]{\mathbf{#1}}$
 $\newcommand{\min}{\mathop{\text{min}}}$
 $\newcommand{\n}{\vec{n}}$
 $\newcommand{\p}{\vec{p}}$
+$\newcommand{\q}{\vec{q}}$
+$\newcommand{\r}{\vec{r}}$
 $\newcommand{\transpose}{{\mathsf T}}$
 $\newcommand{\tr}[1]{\mathop{\text{tr}}{\left(#1\right)}}$
 $\newcommand{\t}{\vec{t}}$
