@@ -1,3 +1,0 @@
-[submodule "libigl"]
-	path = libigl
-	url = git@github.com:libigl/libigl.git
